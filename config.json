@@ -1,0 +1,23 @@
+{
+  "nouns": [
+    "API"
+  ],
+  "modifiers": {
+    "before": [
+      "preprocessor"
+    ],
+    "after": [
+      "2",
+      "2.0"
+    ],
+    "prefixes": [
+      "Anti-",
+      "i"
+    ],
+    "suffixes": [
+      "-C",
+      "++",
+      ".xcodeproj"
+    ]
+  }
+}
