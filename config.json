@@ -1,10 +1,20 @@
 {
   "nouns": [
-    "API"
+    "API{
+  "nouns": [
+    "API",
+    "Callback",
+    "Controller",
+    "Delegate",
+    "Directive",
+    "Protocol",
+    "View",
+    "View Controller"
   ],
   "modifiers": {
     "before": [
       "preprocessor"
+      "extends"
     ],
     "after": [
       "2",
@@ -12,7 +22,8 @@
     ],
     "prefixes": [
       "Anti-",
-      "i"
+      "i",
+      "NS"
     ],
     "suffixes": [
       "-C",
