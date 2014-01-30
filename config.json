@@ -1,6 +1,9 @@
 {
   "nouns": [
-    "API"
+    "API",
+    "Category",
+    "Delegate",
+    "Protocol",
   ],
   "modifiers": {
     "before": [
@@ -12,7 +15,8 @@
     ],
     "prefixes": [
       "Anti-",
-      "i"
+      "i",
+      "NS"
     ],
     "suffixes": [
       "-C",
