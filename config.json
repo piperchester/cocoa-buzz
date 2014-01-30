@@ -1,13 +1,18 @@
 {
   "nouns": [
     "API",
-    "Category",
+    "Callback",
+    "Controller",
     "Delegate",
+    "Directive",
     "Protocol",
+    "View",
+    "View Controller"
   ],
   "modifiers": {
     "before": [
       "preprocessor"
+      "extends"
     ],
     "after": [
       "2",
