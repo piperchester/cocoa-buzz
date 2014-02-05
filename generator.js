@@ -56,7 +56,7 @@ $.getJSON('config.json', function (rawConfig) {
   function update(quote) {
     var pageTitle;
     quote = quote || Generator.generate(config);
-    pageTitle = 'Buzzword Generator - ' + quote;
+    pageTitle = 'Cocoa Buzzword Generator - ' + quote;
 
     $('.title').html(quote);
     document.title = pageTitle;
