@@ -3,10 +3,12 @@
     "API",
     "AppKit", 
     "App Delegate",
+    "Apple",
     "ARC",
     "Block",
     "Callback",
     "Category",
+    "Cocoa",
     "Controller",
     "Delegate",
     "Directive",
@@ -17,6 +19,8 @@
     "Interface",
     "Interface Builder",
     "iOS",
+    "Mac",
+    "Mavericks",
     "Message",
     "Nib",
     "Outlet",
@@ -40,6 +44,14 @@
     ],
     "after": [
       "2.0",
+      "Flat",
+      "nil",
+      "Preprocessor",
+      "Revolutionary"
+    ],
+    "after": [
+      "2.0",
+      "5S",
       "View Controller"
     ],
     "prefixes": [
