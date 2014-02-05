@@ -1,22 +1,43 @@
 {
   "nouns": [
     "API",
+    "AppKit", 
+    "App Delegate",
+    "ARC",
+    "Block",
     "Callback",
+    "Category",
     "Controller",
     "Delegate",
     "Directive",
+    "EventKit",
+    "id",
+    "Implemention",
+    "Interface",
+    "Interface Builder",
+    "iOS",
+    "Message",
+    "Outlet",
+    "OS X",
     "Protocol",
+    "Selector",
+    "UIKit",
     "View",
-    "View Controller"
+    "Xcode"
   ],
   "modifiers": {
     "before": [
-      "preprocessor",
-      "extends"
+      "Asynchronous",
+      "Autorelease",
+      "Dynamic",
+      "Event",	      
+      "Extends",
+      "nil",
+      "Preprocessor"
     ],
     "after": [
-      "2",
-      "2.0"
+      "2.0",
+      "View Controller"
     ],
     "prefixes": [
       "Anti-",
@@ -26,6 +47,9 @@
     "suffixes": [
       "-C",
       "++",
+      ".h",
+      ".m",
+      ".storyboard",
       ".xcodeproj"
     ]
   }
