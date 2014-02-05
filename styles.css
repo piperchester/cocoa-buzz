@@ -1,5 +1,16 @@
+body {
+  font-family: "Lucida Grande", "Helvetica Neue", "Arial";
+  background-image: url('http://images.apple.com/v/ipod/home/b/images/gradient_texture.png');
+}
+
 .container {
   max-width: 768px;
+}
+
+.container .jumbotron {
+  background-color: #FFF;
+  border-radius: 6px;
+  box-shadow: 0px 1px 1px #272727;
 }
 
 .jumbotron {
