@@ -44,14 +44,11 @@
     ],
     "after": [
       "2.0",
+      "5S",
       "Flat",
       "nil",
       "Preprocessor",
-      "Revolutionary"
-    ],
-    "after": [
-      "2.0",
-      "5S",
+      "Revolutionary",
       "View Controller"
     ],
     "prefixes": [
