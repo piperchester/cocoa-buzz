@@ -11,7 +11,7 @@
   ],
   "modifiers": {
     "before": [
-      "preprocessor"
+      "preprocessor",
       "extends"
     ],
     "after": [
