@@ -3,6 +3,10 @@ body {
   background-image: url('http://images.apple.com/v/ipod/home/b/images/gradient_texture.png');
 }
 
+h1, h2 {
+  font-family: "Lucida Grande", "Helvetica Neue", "Arial";
+}
+
 .container {
   max-width: 768px;
 }
