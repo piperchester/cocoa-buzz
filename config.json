@@ -2,7 +2,7 @@
   "nouns": [
     "API",
     "AppKit", 
-    "App Delegate",
+    "AppDelegate",
     "Apple",
     "ARC",
     "Block",
@@ -30,7 +30,7 @@
     "SpriteKit",
     "UIKit",
     "View",
-    "Xcode"
+    "Xcode",
   ],
   "modifiers": {
     "before": [
@@ -40,11 +40,19 @@
       "Event",	      
       "Extends",
       "nil",
-      "Preprocessor"
+      "Preprocessor",
+      "__strong ",
+      "__weak ",
+      "id ",
+      "NS",
+      "@propery ",
+      "UI",
+      "CF",
+      "CG"
     ],
     "after": [
       "2.0",
-      "5S",
+      "S",
       "Flat",
       "nil",
       "Preprocessor",
@@ -55,6 +63,10 @@
       "Anti-",
       "i",
       "NS",
+      "UI",
+      "CF",
+      "CG",
+      "SK",
       "@"
     ],
     "suffixes": [
@@ -63,7 +75,9 @@
       ".h",
       ".m",
       ".storyboard",
-      ".xcodeproj"
+      ".xcodeproj",
+      ".workspace",
+      ".app"
     ]
   }
 }
