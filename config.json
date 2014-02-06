@@ -30,7 +30,7 @@
     "SpriteKit",
     "UIKit",
     "View",
-    "Xcode",
+    "Xcode"
   ],
   "modifiers": {
     "before": [
