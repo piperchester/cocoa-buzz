@@ -9,14 +9,36 @@ h1, h2 {
 
 .container {
   max-width: 768px;
+  margin-top:3%;
 }
 
 .container .jumbotron {
   background-color: #FFF;
   border-radius: 6px;
-  box-shadow: 0px 1px 1px #272727;
+}
+
+/*page-header*/
+.custom-header{
+	margin:0;
+	border-color: #CCC;
 }
 
 .jumbotron {
   text-align: center;
+}
+
+#button-container{
+	width:100%;
+	text-align:center;
+	display:block;
+}
+
+#button-container > p{
+	font-size:140%;
+}
+
+.more-button{
+	width: 40%;
+	font-size: 140%;
+	min-width: 200px;
 }
